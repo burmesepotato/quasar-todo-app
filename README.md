@@ -4,9 +4,9 @@ Learning how to build a simple cross-platform Todo app using Quasar, with [Danny
 
 Screenshots of the app:
 
-![Screenshot of Mobile UI](https://github.com/burmesepotato/git-readme/blob/main/quasar-todo/quasar-mobile.PNG)
+![Screenshot of Mobile UI](https://github.com/burmesepotato/git-readme/blob/main/quasar-todo/quasar-mobile.jpg)
 
-![Screenshot of Desktop UI](https://github.com/burmesepotato/git-readme/blob/main/quasar-todo/quasar-desktop.PNG)
+![Screenshot of Desktop UI](https://github.com/burmesepotato/git-readme/blob/main/quasar-todo/quasar-desktop.jpg)
 
 
 ## Install the dependencies
