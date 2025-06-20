@@ -1,6 +1,8 @@
 # Quasar Todo (quasar-todo)
 
-Learning how to build a simple cross-platform Todo app using Quasar, with [Danny](https://youtu.be/GV-D85D9KJQ).
+A simple cross-platform Todo mobile app using Quasar. 
+
+See [Danny on YouTube](https://youtu.be/GV-D85D9KJQ).
 
 Screenshots of the app:
 
